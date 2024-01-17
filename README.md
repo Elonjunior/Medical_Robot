@@ -49,3 +49,7 @@ Welcome to the Voice and RC Controlled Robot with Health Monitoring repository! 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Xmerlin7/Medical_Robot.git
+   
+ Feel free to use and modify the code for your own projects.
+---
+Happy Robotics and Health Monitoring! 🚀🏥
